@@ -1,0 +1,70 @@
+h1 {
+    border-radius: 150px;
+    text-align: center;
+    border: solid;
+    width: 80%;
+    margin-left: 150px;
+    padding: 13px;
+    box-shadow: 0px -2px 13px 10px rgb(88, 29, 29) inset, 2px 2px 7px 3px rgb(96, 94, 94);
+}
+.box {
+    
+    transition: 2s;
+    width: 1000px;
+    height: 500px;
+    border-radius: 120px;
+    margin-left: 100px;
+    margin-right: 300px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    box-shadow: 4px 2px 4px 10px rgb(230, 227, 227);
+    justify-content: center;
+
+}
+.name {
+    display: block;
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    top: 35%;
+}
+.box:hover {
+    transform: scale(1.2);
+    z-index: 5;
+}
+#b1:hover{
+    font-family: "Barriecito", serif;
+}
+#b2:hover{
+    font-family: "Cookie", serif;
+}
+#b3:hover{
+    font-family: "Princess Sofia", serif;
+}
+#b4:hover{
+    font-family: "Vibur", serif;
+}
+#b5:hover{
+    font-family: "Yesteryear", serif;
+}
+#b6:hover{
+    font-family: "Festive", serif;
+}
+#b7:hover{
+    font-family: "Mrs Sheppards", serif
+}
+#b8:hover{
+    font-family: "Mr Bedfort", serif;
+}
+#b9:hover{
+    font-family: "VT323", serif;
+}
+#b10:hover{
+    font-family: "Iceland", serif;
+}
+#b11:hover{
+    font-family: "Kings", serif;
+}
+#b12:hover{
+    font-family: "Kavoon", serif;
+}
